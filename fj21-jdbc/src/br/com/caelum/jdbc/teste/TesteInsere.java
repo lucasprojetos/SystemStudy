@@ -10,7 +10,7 @@ public class TesteInsere {
 	public static void main(String[] args) {
 		
 		Contato contato = new Contato();
-		contato.setNome("Lucas Caelum");
+		contato.setNome("Lucas Santana");
 		contato.setEmail("lucassice@gmail.com");
 		contato.setEndereco("Rua abreu lima");
 		contato.setDataNascimento(Calendar.getInstance());
